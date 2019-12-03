@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SingleLaneRoadMaterial
+  m_Name: DoubleLaneRoadMaterial
   m_Shader: {fileID: -6465566751694194690, guid: 82b0b03a7ce96ac43b33259f3e9612e9,
     type: 3}
   m_ShaderKeywords: _NORMALMAP_TANGENT_SPACE
@@ -51,7 +51,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_FC54B01C:
-        m_Texture: {fileID: 2800000, guid: 9cd8a7433437b734f813a466ec982cbd, type: 3}
+        m_Texture: {fileID: 2800000, guid: d3858f7aada95364cba278c472521fc3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AnisotropyMap:
@@ -59,7 +59,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 2800000, guid: 9cd8a7433437b734f813a466ec982cbd, type: 3}
+        m_Texture: {fileID: 2800000, guid: d3858f7aada95364cba278c472521fc3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -99,7 +99,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9cd8a7433437b734f813a466ec982cbd, type: 3}
+        m_Texture: {fileID: 2800000, guid: d3858f7aada95364cba278c472521fc3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
